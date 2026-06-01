@@ -1,0 +1,11 @@
+﻿# Exclude large memory dump files
+output/process_dumps/3720.dmp
+output/malfind_dumps/*.dmp
+
+# Exclude the dropper binary
+output/dropper/*.img
+
+# Exclude system files
+Thumbs.db
+.DS_Store
+desktop.ini

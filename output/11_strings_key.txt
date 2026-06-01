@@ -1,0 +1,682 @@
+$RxCscFlags$
+                                 {*.0.0.0.0.0.10} ; ASPM_NOT_SUPPORTED boot arch flag.
+00ConfigFlags
+04ConfigFlagsD0
+05ConfigFlags
+06ConfigFlags
+0eConfigFlags
+                {*.1013.00D6.1018.80D6.0.00000000.00000000}, \  ;; this device with this particular subsystem ID doesn't need the hackflags, so we put it first
+10ConfigFlagsD0
+2018/07/05-22:09:27.020 2844 Reusing MANIFEST C:\Users\Rick\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_www.bittorrent.com_0.indexeddb.leveldb/MANIFEST-000001
+2018/07/07-13:21:03.931 2304 Reusing MANIFEST C:\Users\Rick\AppData\Local\Google\Chrome\User Data\Default\Extension Rules/MANIFEST-000001
+2018/07/07-13:21:03.934 2304 Reusing old log C:\Users\Rick\AppData\Local\Google\Chrome\User Data\Default\Extension Rules/000003.log 
+2018/07/07-13:21:06.900 4536 Reusing MANIFEST C:\Users\Rick\AppData\Local\Google\Chrome\User Data\Default\Local Extension Settings\ghbmnnjooekpmoecnnnilnnbdlolhkhi/MANIFEST-000001
+2018/07/07-13:21:06.900 4536 Reusing old log C:\Users\Rick\AppData\Local\Google\Chrome\User Data\Default\Local Extension Settings\ghbmnnjooekpmoecnnnilnnbdlolhkhi/000003.log 
+2018/07/07-21:31:39.872 920 Reusing MANIFEST C:\Users\Rick\AppData\Local\Google\Chrome\User Data\Default\Feature Engagement Tracker\AvailabilityDB/MANIFEST-000001
+2018/07/07-21:31:39.873 920 Reusing old log C:\Users\Rick\AppData\Local\Google\Chrome\User Data\Default\Feature Engagement Tracker\AvailabilityDB/000003.log 
+2018/07/07-23:04:13.363 964 Reusing MANIFEST C:\Users\Rick\AppData\Local\Google\Chrome\User Data\Default\VideoDecodeStats/MANIFEST-000001
+2018/08/01-22:11:55.644 948 Reusing MANIFEST C:\Users\Rick\AppData\Local\Google\Chrome\User Data\Default\File System\Origins/MANIFEST-000001
+2018/08/01-22:11:55.644 948 Reusing old log C:\Users\Rick\AppData\Local\Google\Chrome\User Data\Default\File System\Origins/000003.log 
+2018/08/04-18:27:37.518 3472 Reusing MANIFEST C:\Users\Rick\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_www.google.co.il_0.indexeddb.leveldb/MANIFEST-000001
+2018/08/04-18:27:37.518 3472 Reusing old log C:\Users\Rick\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_www.google.co.il_0.indexeddb.leveldb/000003.log 
+2018/08/04-22:24:46.784 3676 Reusing MANIFEST C:\Users\Rick\AppData\Local\Google\Chrome\User Data\Default\Sync Data\LevelDB/MANIFEST-000001
+2018/08/04-22:24:46.785 3676 Reusing old log C:\Users\Rick\AppData\Local\Google\Chrome\User Data\Default\Sync Data\LevelDB/000003.log 
+2018/08/04-22:24:46.806 3604 Reusing MANIFEST C:\Users\Rick\AppData\Local\Google\Chrome\User Data\Default\Service Worker\Database/MANIFEST-000001
+2018/08/04-22:24:46.985 3604 Reusing old log C:\Users\Rick\AppData\Local\Google\Chrome\User Data\Default\Service Worker\Database/000003.log 
+2018/08/04-22:24:47.347 3676 Reusing MANIFEST C:\Users\Rick\AppData\Local\Google\Chrome\User Data\Default\Thumbnails/MANIFEST-000001
+2018/08/04-22:24:47.347 3676 Reusing old log C:\Users\Rick\AppData\Local\Google\Chrome\User Data\Default\Thumbnails/000003.log 
+2018/08/04-22:24:49.464 3600 Reusing MANIFEST C:\Users\Rick\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\pkedcjkdefgpdelpbcmbmeomcjbeemfm/MANIFEST-000001
+2018/08/04-22:24:49.464 3600 Reusing old log C:\Users\Rick\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\pkedcjkdefgpdelpbcmbmeomcjbeemfm/000003.log 
+2018/08/04-22:24:50.419 3600 Reusing MANIFEST C:\Users\Rick\AppData\Local\Google\Chrome\User Data\Default\Extension State/MANIFEST-000001
+2018/08/04-22:24:50.447 3600 Reusing old log C:\Users\Rick\AppData\Local\Google\Chrome\User Data\Default\Extension State/000003.log 
+2018/08/04-22:24:55.203 3604 Reusing MANIFEST C:\Users\Rick\AppData\Local\Google\Chrome\User Data\Default\Session Storage/MANIFEST-000001
+2018/08/04-22:24:55.256 3604 Reusing old log C:\Users\Rick\AppData\Local\Google\Chrome\User Data\Default\Session Storage/000007.log 
+2018/08/04-22:29:34.196 3304 Reusing MANIFEST C:\Users\Rick\AppData\Local\Google\Chrome\User Data\Default\Service Worker\Database/MANIFEST-000001
+2018/08/04-22:29:34.215 3304 Reusing old log C:\Users\Rick\AppData\Local\Google\Chrome\User Data\Default\Service Worker\Database/000003.log 
+2018/08/04-22:29:34.220 3440 Reusing MANIFEST C:\Users\Rick\AppData\Local\Google\Chrome\User Data\Default\Sync Data\LevelDB/MANIFEST-000001
+2018/08/04-22:29:34.223 3440 Reusing old log C:\Users\Rick\AppData\Local\Google\Chrome\User Data\Default\Sync Data\LevelDB/000003.log 
+2018/08/04-22:29:34.571 3304 Reusing MANIFEST C:\Users\Rick\AppData\Local\Google\Chrome\User Data\Default\Thumbnails/MANIFEST-000001
+2018/08/04-22:29:34.571 3304 Reusing old log C:\Users\Rick\AppData\Local\Google\Chrome\User Data\Default\Thumbnails/000003.log 
+2018/08/04-22:29:38.279 3436 Reusing MANIFEST C:\Users\Rick\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\pkedcjkdefgpdelpbcmbmeomcjbeemfm/MANIFEST-000001
+2018/08/04-22:29:38.280 3436 Reusing old log C:\Users\Rick\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\pkedcjkdefgpdelpbcmbmeomcjbeemfm/000003.log 
+2018/08/04-22:29:38.874 3436 Reusing MANIFEST C:\Users\Rick\AppData\Local\Google\Chrome\User Data\Default\File System\Origins/MANIFEST-000001
+2018/08/04-22:29:38.875 3436 Reusing old log C:\Users\Rick\AppData\Local\Google\Chrome\User Data\Default\File System\Origins/000003.log 
+2018/08/04-22:29:38.947 796 Reusing MANIFEST C:\Users\Rick\AppData\Local\Google\Chrome\User Data\Default\Extension State/MANIFEST-000001
+2018/08/04-22:29:38.981 796 Reusing old log C:\Users\Rick\AppData\Local\Google\Chrome\User Data\Default\Extension State/000003.log 
+2018/08/04-22:29:40.384 3448 Reusing MANIFEST C:\Users\Rick\AppData\Local\Google\Chrome\User Data\Default\Session Storage/MANIFEST-000001
+2018/08/04-22:29:40.390 3448 Reusing old log C:\Users\Rick\AppData\Local\Google\Chrome\User Data\Default\Session Storage/000007.log 
+2018/08/04-22:29:40.493 3304 Reusing MANIFEST C:\Users\Rick\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_www.google.co.il_0.indexeddb.leveldb/MANIFEST-000001
+2018/08/04-22:29:40.509 3304 Reusing old log C:\Users\Rick\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_www.google.co.il_0.indexeddb.leveldb/000003.log 
+2018/08/04-22:32:54.491 796 Reusing MANIFEST C:\Users\Rick\AppData\Local\Google\Chrome\User Data\Default\Extension Rules/MANIFEST-000001
+2018/08/04-22:32:54.492 796 Reusing old log C:\Users\Rick\AppData\Local\Google\Chrome\User Data\Default\Extension Rules/000003.log 
+2FFB0C52CLSIDFLAGS1
+31Flags}
+%61-6F?9FTKCT`UL`g\Qgi]Rig\Qg`UL`TKCTF?9F61-6%"
+64ConfigFlags
+64CreationFlags385
+65ConfigFlags
+98ConfigFlagsd0-8d
+98ConfigFlagsd0-8dX
+AccessibleObjectFromWindow
+AceFlagsFromAuditFlags
+<a class="icon mail-star" data-oao-hover="toggleFlagged" id="id191" title="Mark as Favorite" data-oao-toggleSelector="">
+<a class="icon mail-star" data-oao-hover="toggleFlagged" id="id195" title="Mark as Favorite" data-oao-toggleSelector="">
+<a class="icon mail-star" data-oao-hover="toggleFlagged" id="id199" title="Mark as Favorite" data-oao-toggleSelector="">
+<a class="icon mail-star" data-oao-hover="toggleFlagged" id="id19d" title="Mark as Favorite" data-oao-toggleSelector="">
+;               (ACPI Boot Arch Flags)
+ADVANCEDCLSIDFLAGS
+AdvertiseFlags
+AdvertiseFlags-
+A filter has changed CallbackData->Iopb->OperationFlags directly for SL_FAIL_IMMEDIATELY or
+AllFlags
+; Alternately, disable ASPM if the ASPM_NOT_SUPPORTED boot arch flag is set.
+amd64_wpf-servicing_key_productfamily_31bf3856ad364e35_none_f62072c0ac6b10e5
+amd64_wwf-servicing_key_productfamily_31bf3856ad364e35_none_c826b15fd5cb7944w0-
+AmdSataChannelFlags
+AMLIHackFlags
+AMLIInitFlags
+AnnounceFlags
+AppCompatFlags
+APPCOMPATFLAGS
+APPDATA=C:\Users\Rick\AppData\Roaming
+AppIDFlags
+; arch flag set.
+AreaFlags
+AreaFlags+
+Argument Flags - %lx
+!(askd.Flags & ACTIVATION_CONTEXT_SECTION_KEYED_DATA_FLAG_FOUND_IN_SYSTEM_DEFAULT)
+AssemblyFlagsAttribute
+AssemblyNameFlags
+AssemblyReferenceDependentAssembly_Flags
+AssemblyReference_Flags
+AssemblyRefFlags
+AssemblyRegistrationFlags
+AsymmetricKeyExchangeDeformatter
+AsymmetricKeyExchangeFormatter
+AutoAlphaFlag
+AVRF: %ws: pid 0x%X: flags 0x%X: application verifier enabled
+.?AVSelectFormat@icu_61@@
+B4Flags}
+BatteryFlag
+BCryptGenerateSymmetricKey
+BemCreateContractFrom
+BindingFlags
+bObjectFullyComplete
+BootDriverFlags
+BootFlags
+BootFlagse
+BootFlagsE4
+BrowserFlags
+!BytesTransferred || ((Context->Flags) & (0x2))
+Cannot supply flags when constructing one RegExp from another
+CcGetFileObjectFromBcb
+CcGetFileObjectFromSectionPtrs
+CcGetFileObjectFromSectionPtrsRef
+	<c:ContactIDCollection><c:ContactID c:ElementID="50609e14-422e-48fd-81e8-83f243b2c6a3"><c:Value>4478805f-74bf-4007-95e3-4da903f8aab1</c:Value></c:ContactID></c:ContactIDCollection><c:NameCollection><c:Name c:ElementID="345fbdcb-bbf7-4ef4-81cb-3d111da31ffd"><c:FormattedName>Rick</c:FormattedName></c:Name></c:NameCollection></c:contact>
+CimManifestSignerFlagMask
+CmiManifestVerifyFlags
+CMS_ASSEMBLY_DEPLOYMENT_FLAG
+CMS_ASSEMBLY_DEPLOYMENT_FLAG_CREATE_DESKTOP_SHORTCUT
+CMS_ASSEMBLY_REFERENCE_FLAG
+CMS_ASSEMBLY_REFERENCE_FLAG_FOLLOW
+CMS_COM_SERVER_FLAG
+CMS_ENTRY_POINT_FLAG
+CMS_ENTRY_POINT_FLAG_CUSTOMUX
+CMS_FILE_FLAG
+CollectFromClientContext
+CollectFromServerContext
+ColorChannelFlag
+ColorMatrixFlag
+CommandFlags
+CompactFlash+MemoryStick Card Reader
+CompactFlash+MMC/SD Card Reader
+CompactFlash+MMC/SD+MemoryStick Card Reader
+@Compatibility Flags
+Compatibility Flags
+CompatibilityFlags
+COMServer_Flags
+ConfigFlags
+ConfigFlags00000
+ConfigFlags0000e
+ConfigFlags0c
+ConfigFlagsa
+ConfigFlagsacy/
+ConfigFlagsacyi
+ConfigFlagsanAge
+ConfigFlagsD0
+ConfigFlagse
+ConfigFlagses32
+ConfigFlagsevk
+ConfigFlagsfigFl
+ConfigFlagsfix
+ConfigFlagsgePat
+ConfigFlagsiceDe
+ConfigFlagsP,
+ConfigFlagsP:
+ConfigFlagss
+ConfigFlagsss
+ConfigFlagsssGUI
+ConfigFlagsver 
+ConfigFlagsvice
+ConfigFlagsvider
+ConfigurationFlags
+ConflictFolder
+ConnectFunctions
+ConstructForwardVarargs Descriptor
+ContractFailedEventArgs
+ContractFailureKind
+ControlFlags
+ControlFlagsa
+CreateFlags
+CreateObjectForCom
+CreateTextFormatFlags
+CreationFlags
+CrossSiteSyncFlags
+_crtDbgFlag
+_CrtSetDbgFlag
+CtfImeAssociateFocus
+CtfImeConfigure
+CtfImeConversionList
+CtfImeCreateInputContext
+CtfImeCreateThreadMgr
+CtfImeDestroy
+CtfImeDestroyInputContext
+CtfImeDestroyThreadMgr
+CtfImeDispatchDefImeMessage
+CtfImeEnumRegisterWord
+CtfImeEscape
+CtfImeEscapeEx
+CtfImeGetGuidAtom
+CtfImeGetRegisterWordStyle
+CtfImeInquire
+CtfImeInquireExW
+CtfImeIsGuidMapEnable
+CtfImeIsIME
+CtfImeProcessCicHotkey
+CtfImeProcessKey
+CtfImeRegisterWord
+CtfImeSelect
+CtfImeSelectEx
+CtfImeSetActiveContext
+CtfImeSetCompositionString
+CtfImeSetFocus
+CtfImeToAsciiEx
+CtfImeUnregisterWord
+CtfImmAppCompatEnableIMEonProtectedCode
+CtfImmCoUninitialize
+CtfImmDispatchDefImeMessage
+CtfImmEnterCoInitCountSkipMode
+CtfImmGenerateMessage
+CtfImmGetCompatibleKeyboardLayout
+CtfImmGetGuidAtom
+CtfImmGetIMEFileName
+CtfImmGetTMAEFlags
+CtfImmHideToolbarWnd
+CtfImmIsCiceroEnabled
+CtfImmIsCiceroStartedInThread
+CtfImmIsGuidMapEnable
+CtfImmIsTextFrameServiceDisabled
+CtfImmLastEnabledWndDestroy
+CtfImmLeaveCoInitCountSkipMode
+CtfImmNotify
+CtfImmRestoreToolbarWnd
+CtfImmSetAppCompatFlags
+CtfImmSetCiceroStartInThread
+CtfImmSetDefaultRemoteKeyboardLayout
+CtfImmTIMActivate
+CtfNotifyIME
+}CTXMENU_XPQCMFLAGSJ
+}CTXMENU_XPQCMFLAGST
+C:\Users\Rick\Desktop
+C:\Users\Rick\Downloads
+C:\Users\Rick\Downloads\Lunar Client & WZ.zip
+C:\Users\Rick\Favorites\Links for United States\GobiernoUSA.gov.url
+C:\Users\Rick\Favorites\Links for United States\USA.gov.url
+DaConfigFlags
+DarkSalmonKey
+DATAGRitializedFlags
+DateTimeFormatFlags
+DAVDebugFlag8-'
+DB_IPCE_GET_NGEN_COMPILER_FLAGS
+DB_IPCE_GET_NGEN_COMPILER_FLAGS_RESULT
+DB_IPCE_SET_CLASS_LOAD_FLAG
+DB_IPCE_SET_NGEN_COMPILER_FLAGS
+DB_IPCE_SET_NGEN_COMPILER_FLAGS_RESULT
+DebugFlag
+DebugFlags
+DebugFlags'
+DeConfigFlags
+DefaultRequestFlags
+DefaultSettings.Flags
+DefaultTraceFlags
+DelegateBindingFlags
+DeploymentFlags
+.DeploymentFlagsn
+DeviceContextBinaryRasterOperationFlags
+DeviceHackFlags
+|DFlags2Gh
+DhcpConnForceBroadcastFlag
+DiagonalBrick
+DirectPlay8InitFlags
+; Disable MSI on a system where FADT Boot Arch flags are set
+DisplayFlags
+displayRectF
+DUMMY Flag
+DummyFlag1
+DummyFlag2
+   dwFlags = 0x%08lx
+EditFlags
+EditFlags(
+EditFlags.0
+EEDllGetClassObjectFromClass
+EmfPlusFlags
+Enable Flags
+EnableFlags
+EnableKernelFlags
+EntryPoint_Flags
+Entry     User      Heap          Size    Req.Size     Flags
+EnumAssembliesFlags
+EnumAssemblyFilesFlags
+EnumAssemblyInstallReferenceFlags
+EnumCategoriesFlags
+EnumCategoryInstancesFlags
+EnumSubcategoriesFlags
+Error Flag
+EtwGetTraceEnableFlags
+EventFlags
+EventLogFlags
+EventSourceFlags
+EventSourceFlagsp
+EvtSeekFlags
+ExplorerCLSIDFlags
+ExplorerFlags
+ExportedTypeFlags
+Exporting context %p, flags 0x%x
+ExtractFastJSArray Descriptor
+Failed to CheckForAndDoRedirectForGC(). Retry suspension 2 for thread %p
+Failed to CheckForAndDoRedirectForGC(). Retry suspension for thread %p
+FCFlags}U
+FeClearPendingDeleteFlags
+FeSetFilterVisibleFlags
+FieldFlags
+FieldTypeFlags
+File_Flags
+FileFlags
+FirebrickKey
+FlagAutoEllipsis
+FlagCurrentlyAnimating
+FlagDropDownClosing
+FlagGettterThrew
+FlagInButtonUp
+FlagIsSplitterMove
+Flag.lnk
+FlagMousePressed
+FlagNeedsRefresh
+        FLAGS              : 
+                       Flags: 0x%x
+(Flags2.
+FlagsAttribute
+FlagselR
+Flagser 
+!(Flags & ~HEAP_CREATE_VALID_MASK)
+Flagshow
+FlagShowToolTip
+FLAGTX~1.WIN
+Flag.txt
+FlConfigFlags
+FORMATFLAGS
+FoundDayPatternFlag
+FoundMonthPatternFlag
+FoundYearPatternFlag
+FoundYMDPatternFlag
+((FreeBlock->Flags & HEAP_ENTRY_DECOMMITTED) || (ROUND_UP_TO_POWER2(FreeBlock, PAGE_SIZE) == (ULONG_PTR)FreeBlock))
+FUNCFLAG_FREQUESTEDIT
+FUNCFLAG_FUIDEFAULT
+FUNCFLAGS
+FwpsInjectForwardAsync0
+gdipFormatFlags
+GdipGetImageFlags
+GdipGetStringFormatFlags
+GdipSetStringFormatFlags
+gdiTextFormatFlags
+GdiUnsupportedFlagMask
+GenerateObjectFromDataNodeInfo
+GenericParamFlags
+get_AceFlags
+GetAddrOfContractShutoffFlag
+GetAppCompatFlags
+GetAppCompatFlags2
+GetCompatibilityFlag
+get_ControlFlags
+get_DebuggingFlags
+get_Firebrick
+get_Flags
+GetFlags
+GetFormatFlagUseHebrewCalendar
+GetImplTypeFlags
+get_InheritanceFlags
+GetLeadingTextPaddingFromTextFormatFlags
+get_ObjectAceFlags
+GetObjectForIUnknown
+GetObjectForNativeVariant
+get_ObjectForScripting
+GetObjectFromMode
+get_ObjectFromWin32Handle
+GetPackagePropertyFlags
+GetSecurityFlags
+GetSecurityObjectForFrame
+GetSpecialSecurityFlags
+GetStartupFlags
+GetStartupFlags_RetAddr
+GetThreadIOPendingFlag
+GetTraceEnableFlags
+GetTypedObjectForIUnknown
+GetTypeFlags
+GetUniqueObjectForIUnknown
+ghFlagseyb
+GlobalFlag
+GlobalFlags
+GlobeTrotter 3G datacard
+GlobeTrotter 3G+ datacard
+GlobeTrotter Express 7.2 v2
+Globetrotter GI0505 [iCON 505]
+Globetrotter HSDPA Modem
+Globetrotter HSUPA Modem (aka icon 451)
+Globetrotter HSUPA Modem (aka iCON HSUPA E)
+Globetrotter HSUPA Modem (icon 411 aka "Vodafone K3760")
+Globetrotter MO40x 3G Modem (GTM 382)
+grfCommitFlags
+grfFlags
+grfStatFlag
+GZipOptionalHeaderFlags
+; Hack flag: 00000000.00000800
+; Hack flag: 00000000.00400000
+; Hack flag: 00000000.02000000
+; Hack flag: 00000010.00000000
+; Hack flag: 00000200.00000000
+; Hack flag: 00000400.00000000
+;                 Hackflags0, Hackflags1)
+;                Hackflags0, Hackflags1)
+;         HHHHHHHH : hackflags
+HJC - Hardware trace flag applied
+HOMEPATH=\Users\Rick
+HorizontalBrick
+https://securepubads.g.doubleclick.net/pagead/adview?ai=CpUiRr_9lW6qvMduWgAe8hZigB_OB3ulS6Yiz3_UHrQIQASCA5KEkYPmy8oOQEKAB7cSS1gPIAQKpApAwejdxMpI-4AIAqAMByAOZBKoEwAFP0EGFNiEiVuba5zENGGz63uGOJiS3mrSjusEfXnpxvSJlDDcDWS6eVUdMxgVuR-wZryYB0wqu4e-h1NrgAslL8QNXDHfSXZGZ6FMdBY-UiB4nq6s-lAUtzJdmnAO2KJX2G7WliHjUfdZkBVBc3QdKf5c_lUNyyszFnOU_tBn7lgLQ88ZmcDcGn0RqNCROuO-f70CtfpYl9iNTzHKkKWBB38e8JrOB7BBHK7gVTggjDAYJAuyKPJDOefKgQOsK927ABJ3f75bHAeAEAZIFBAgEGAGSBQQIBRgEoAYCgAf7uu0pqAeOzhuoB9XJG6gH2csbqAfPzBuoB6a-G6gHmM4bqAfpzRvYBwHyBwQQm8QQ0ggHCIBhEAEYAYAKA9gTDA&sigh=ztHsWlkSYzU&tpd=AGWhJmuedwKcggUpooZZ9Yps0i-i2Se9COojoGu-MMoI6c5NZw
+https://tg.socdm.com/rtb/sync_before?proto=google_ebda&google_gid=CAESEPH3fJjXQCjChSYRr1WP14s&google_cver=1&google_push=AHNF13Ip63NCH43qxTnP_vDSQLzaCTFKmJ4FD-4KzIBvbJ_kTg
+IAPPIDAUTHORITY_ARE_REFERENCES_EQUAL_FLAGS
+IDLFLAG_FOUT
+IE5_UA_Backup_Flag
+IIDENTITYAUTHORITY_REFERENCE_IDENTITY_TO_TEXT_FLAGS
+ImageList_GetFlags
+ImageList_SetFlags
+ImageOptionFlags
+ImmGetAppCompatFlags
+ImplFlags
+ImplMapMappingFlags
+IMPLTYPEFLAG_FDEFAULT
+IMPLTYPEFLAGS
+Informational Flag
+InitFlags
+InitializeCompatibilityFlags
+Invalid flags supplied to RegExp constructor '%'
+Invalid regular expression flags
+INVOCATION_FLAGS
+INVOCATION_FLAGS_FIELD_SPECIAL_CAST
+INVOCATION_FLAGS_NEED_SECURITY
+ISTORE_ENUM_ASSEMBLIES_FLAG_LIMIT_TO_VISIBLE_ONLY
+jBootFlagsn7
+jConfigFlags
+jConfigFlagsfix
+jDefaultSettings.Flagsn
+KeGetXSaveFeatureFlags
+KERB_WRAP_NO_ENCRYPT flag passed to MakeSignature!
+KsGetObjectFromFileObject
+LaunchExplorerFlags
+LDAP Resolve Flag
+leConfigFlagsvers
+LIBFLAGS
+liConfigFlags
+LightSalmonKey
+LOAD: INIT failed PID=%ld | stringID=%ld | str=%S | flags=%d | hr = %X
+LOCALAPPDATA=C:\Users\Rick\AppData\Local
+LocalFlags
+LogFileFlags
+LogFileFlagsf
+LogFlags
+LoggingFlags
+Lottery Printer, XiPrintPlus
+Lottery Scanner, Xiscan 3
+Lottery Scanner, Xiscan S
+lRFlagsnce
+luConfigFlags-f518
+                                                       \   ;; malfunctions if the BAR is probed.  Set this flag
+ManifestResourceFlags
+MappingFlags
+m_dwMethodImplFlags
+MediaTypeFlags
+MethodCacheFlags
+MethodFlags
+MiscStatus Flags
+MiscStatus Flagshbin
+MRxSmbGetDialectFlagsFromSrvCall
+'MSCTFIME Composition
+MSCTFIME Composition
+	MSCTFIME UI
+MsCtfMonitor1
+msctf.pdb
+msft:rm/algorithm/flags/1.0
+msocbvcrOLKFlagNone
+NameInfoFlags
+NdrComplexStructFree
+NdrConformantStructFree
+NdrConformantVaryingStructFree
+NdrGetTypeFlags
+NdrSimpleStructFree
+NdrTypeFlags
+newFlags
+nSetHostSecurityManagerFlags
+ntdll.EtwGetTraceEnableFlags
+NtGlobalFlag
+; Numereric Args: FADT boot architecture flag.
+objectForScripting
+ObjectFromLresult
+objectFromWin32Handle
+ObjectFromWin32Handle
+OleMetafilePictFromIconAndLabel
+      </ol>Private user data inputThis page includes a password or credit card input over HTTP. A warning has been added to the URL bar.Non-secure page loaded in incognito modeThis page was loaded non-securely in an incognito window. A warning has been added to the URL bar.Form field edited on a non-secure pageData was entered in a field on a non-secure page. A warning has been added to the URL bar.This page is dangerous (flagged by Google Safe Browsing).Flagged by Google Safe BrowsingTo check this page's status, visit g.co/safebrowsingstatus.insecure (SHA-1)The certificate chain for this site contains a certificate signed using SHA-1.Subject Alternative Name missingThe certificate for this site does not contain a Subject Alternative Name extension containing a domain name or IP address.CertificatemissingThis site is missing a valid, trusted certificate ($1).valid and trustedThe connection to this site is using a valid, trusted server certificate issued by $1.Certificate expires soonThe certificate for this site expires in less than 48 hours and needs to be renewed.Connectionsecure (strong $1)Public-Key-Pinning bypassedPublic-Key-Pinning was bypassed by a local root certificate.The connection to this site is encrypted and authenticated using $1 (a strong protocol), $2 (a strong key exchange), and $3 (a strong cipher).obsolete connection settingsThe connection to this site uses $1 ($2), $3 ($4), and $5 ($6).$1 with $2an obsolete protocola strong protocolan obsolete key exchangea strong key exchangean obsolete ciphera strong cipherResourcesall served securelyAll resources on this page are served securely.mixed contentThis page includes HTTP resources.active mixed contentYou have recently allowed non-secure content (such as scripts or iframes) to run on this site.content with certificate errorsThis page includes resources that were loaded with certificate errors.active content with certificate errorsYou have recently allowed content loaded with certificate errors (such as scripts or iframes) to run on this site.non-secure formThis page includes a form with a non-secure "action" attribute.
+OpenGLFlags
+OpenGLFlagsWow
+OptimizationFlags
+_OptimizeObjectForAddingMultipleProperties
+owCreationFlagslor
+paddingFlags
+PaintValueFlags
+ParallelLoopStateFlags
+ParallelLoopStateFlags32
+ParallelLoopStateFlags64
+PARAMFLAG
+PARAMFLAG_FHASDEFAULT
+PARAMFLAG_FOPT
+PARAMFLAG_FOUT
+ParseFlags
+; PCI device hack flags based on bios matching rule
+; PCI device hack flags based on CPU matching rule
+; PCI device hack flags rule
+PCIDeviceHack = ?PCIDeviceMatch(0)(0.1.2.3.4)(0),?PCIDeviceSetHackflags()(5.6)(0),&
+PCIDeviceSetHackflags = 0, 2, PCIDevice  ; ()(hackflags0, hackflags1)
+PCIDeviceSetHackflags = {F79DE8DC-F3D1-4802-9C4B-6BF742D65FBD}
+Pku2uExportContext context %p, flags 0x%x
+pMdl %p, Flags 0x%x in PIRP %p should be locked
+PopSetPowerAction: %s, Flags %x, Min=%s
+PowerAction: %s%s, Min=%s, Flags %x
+#pragma classflags("forceupdate")
+PrinterPropertyFlags
+Processor State Flags
+PropFlags
+ProxyTypeFlags
+PsQueryProcessExceptionFlags
+ReadObjectFromHandle
+RealProxyFlags
+Recognizer Capability Flags
+Recognizer Configuration Flags
+ReconvFlag
+RedirectObjectAttributes: ConstructFullPath failed, error %x
+RefFlags
+ReflectionPermissionFlag
+RegionFlags
+			return n >= 0 ? (cygnus_report("rdp", "RDP=" + cygnus_indexptions":[{"text":"Seen this ad multiple times","conversion":{"label":"mute_survey_option","label_instance":"2","include_close_button_token":true}},{"text":"Ad covered content","conversion":{"label":"mute_survey_option","label_instance":"3","include_close_button_token":true}},{"text":"Not interested in this ad","conversion":{"label":"mute_survey_option","label_instance":"12","include_close_button_token":true}},{"text":"Already bought this","conversion":{"label":"mute_survey_option","label_instance":"11","include_close_button_token":true}}]},"undo_conversion":{"label":"user_feedback_undo","label_instance":"1","include_close_button_token":true}}],"mute_panel_data":{"adchoices_icon_url":"https://googleads.g.doubleclick.net/pagead/images/adchoices/iconx2-000000.png","adchoices_button_text":"AdChoices","closed_message_text":"Ad closed by %1$s","enable_lightbox":false,"google_logo_url":"https://www.gstatic.com/images/branding/googlelogo/2x/googlelogo_dark_color_84x28dp.png","report_ad_button_text":"Stop seeing this ad","confirmation_text":"We'll try not to show that ad again","ads_by_google_icon_url":"https://googleads.g.doubleclick.net/pagead/images/abg/iconx2-000000.png","ads_by_google_button_text":"Ads by Google","see_my_google_ad_settings_text":"See my Google ad settings","protocol_gstatic_host":"https://www.gstatic.com","jake_mta_context":"","overlay_message_text":"Ads by %1$s","ad_settings_text":"Ad settings","ad_settings_url":"https://adssettings.google.com"},"why_this_ad_token":"AB3afGEAAAFcW1tbW251bGwsWzksMjFdXSxbbnVsbCxudWxsLFtudWxsLG51bGwsbnVsbCwiaHR0cHM6Ly9kaXNwbGF5YWRzLWZvcm1hdHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2Fkcy9wcmV2aWV3L2NvbnRlbnQuanM_Y2xpZW50PXd0YVx1MDAyNm9iZnVzY2F0ZWRDdXN0b21lcklkPTQxODQxMTExMDdcdTAwMjZjcmVhdGl2ZUlkPTI4NDExMDUwNTI3MFx1MDAyNnZlcnNpb25JZD0wXHUwMDI2YWRHcm91cENyZWF0aXZlSWQ9Mjc2MzU3ODUxNjY4XHUwMDI2aHRtbFBhcmVudElkPXByZXYtMFx1MDAyNmhlaWdodD0wXHUwMDI2d2lkdGg9MFx1MDAyNnNpZz1BQ2lWQl95bVNad3JXUExJb0FxSjdBS2JuOVBFclpteS13Il1dXV1daf4Qj3Z0U5V2qazYHEpL_SN0hdDA83-I_mIFxUIsDXun9aVxRT5sAprGv3cQltxWPS4wC_bffsicdQplGbqizCaoJNSHs4f9wGwK719JT1VDubQtUOOIJX0dNeHOmaJ7v0_2eJqRw7pjptFwRZs16p1N-PyYu4-MgBSv18l-BzDyKKs--mPiWgZy0JChocFUjQrkbII0sKS6rp8IyhuDlZqhpuECI8F-mrTzaSO6WBXx5jDEoxbdcnc3Xj0cc3EKgIZU2Nxwcblmf7yihcY6mRS_Nl1u3LyDd3bRPiq1oHjYdx8YOytz0w-E-24V2MlsFVhGjxJpQL0BN2XX1FK_ig,75eSc9dCdMpXRprN7wP4RA","why_this_ad_url":"https://adssettings.google.com/whythisad?reasons=AB3afGEAAAFcW1tbW251bGwsWzksMjFdXSxbbnVsbCxudWxsLFtudWxsLG51bGwsbnVsbCwiaHR0cHM6Ly9kaXNwbGF5YWRzLWZvcm1hdHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2Fkcy9wcmV2aWV3L2NvbnRlbnQuanM_Y2xpZW50PXd0YVx1MDAyNm9iZnVzY2F0ZWRDdXN0b21lcklkPTQxODQxMTExMDdcdTAwMjZjcmVhdGl2ZUlkPTI4NDExMDUwNTI3MFx1MDAyNnZlcnNpb25JZD0wXHUwMDI2YWRHcm91cENyZWF0aXZlSWQ9Mjc2MzU3ODUxNjY4XHUwMDI2aHRtbFBhcmVudElkPXByZXYtMFx1MDAyNmhlaWdodD0wXHUwMDI2d2lkdGg9MFx1MDAyNnNpZz1BQ2lWQl95bVNad3JXUExJb0FxSjdBS2JuOVBFclpteS13Il1dXV1daf4Qj3Z0U5V2qazYHEpL_SN0hdDA83-I_mIFxUIsDXun9aVxRT5sAprGv3cQltxWPS4wC_bffsicdQplGbqizCaoJNSHs4f9wGwK719JT1VDubQtUOOIJX0dNeHOmaJ7v0_2eJqRw7pjptFwRZs16p1N-PyYu4-MgBSv18l-BzDyKKs--mPiWgZy0JChocFUjQrkbII0sKS6rp8IyhuDlZqhpuECI8F-mrTzaSO6WBXx5jDEoxbdcnc3Xj0cc3EKgIZU2Nxwcblmf7yihcY6mRS_Nl1u3LyDd3bRPiq1oHjYdx8YOytz0w-E-24V2MlsFVhGjxJpQL0BN2XX1FK_ig,75eSc9dCdMpXRprN7wP4RA\u0026source=display\u0026cbt=G43HCVRYyZgIlNTYwYUIEOCwyMQFGJuS-EIiGmdlb3BoeXNpY2FsLWVxdWlwbWVudHMuY29tMggIBRMYlogDFEIXY2EtcHViLTcyMzY4MjI5Mzg0ODk4NjJIBVguYOQDcAGoAQE\u0026cv=https://googleads.g.doubleclick.net/pagead/conversion/%3Fai%3DC6oFDPwBmW-K3CMa03gPugZLQCOaqjdtSlNTYwYUI8dTBpeoNEAEggOShJGD5svKDkBCgAc2Z9LsDyAEJqQLkPHg5RKaDPuACAKgDAcgDmwSqBMgBT9CLY1DstyhPQmVd6aP21Fl-50GDAMBVZbxiaOoPf1IjbDq1u8IjXQJpgz0nEd8vAAbI2gfvf6G5k2odQOXGJAx8_DIalg_-qfYgonq7k3I5Blc487PXPWoDtOGZbozz5QcNi1DWSAYgB2eMKB-juZ1DZFGivyMKJmvSY8AesVSGRi71Uuja_3agQVJyiCMeAF4j0-AZGadaXvo0NJefJRuZaHD4tfbSSH1I-RJlC7fWs90rshYGl9jIkQyShogPa7_xBZx6N9rgBAGgBi6AB5vmi0SoB47OG6gH1ckbqAfZyxuoB8_MG6gHpr4bqAeYzhvYBwDSCAcIgGEQARgBsQkvQzioGu49aIAKA9gTAg%26sigh%3DRHtel9RPcPQ","why_this_ad_text":"Why this ad?","is_mutable_impression":true}},"flags":[{"name":"jake_ui_extension","va
+richTextBoxFlags
+RICKAN~1
+RICKAN~2
+Rick And Morty
+Rick And Morty season 1 download.lnk
+ROTFlags
+RtlGetNtGlobalFlags
+RtlQueryElevationFlags
+RtlSetUserFlagsHeap
+SaveFlag
+_SConfigFlags
+SdAppCmdFlags
+SdbQueryFlagMask
+SdCmdFlags
+SeciAllocateAndSetCallFlags
+securityControlFlags
+SecurityControlFlags
+SecurityFlags
+SecurityPermissionFlag
+SelectFont
+SelectFontLocal
+SeOpenObjectForDeleteAuditAlarm
+SeOpenObjectForDeleteAuditAlarmWithTransaction
+SerializationMonkey
+ServerFlags
+ServiceFlags
+set_AceFlags
+; Set a hack flag to disable power management downstream of a pci bridge.
+; Set a hack flag to enable MSI mapping on memory host controllers.
+; Set a hack flag to fail query remove on pci device.
+; Set a hack flag to force a bridge window alignment to match the length of its
+; Set a hack flag to ignore subsystem vendor/device ids.
+; Set a hack flag to ignore the boot config for these chipset-integrated bridge.
+set_Flags
+SetFlagsAndExceptionInfo
+set_InitializationFlags
+SetMapperFlags
+_SetNativeFlag
+set_ObjectAceFlags
+set_ObjectForScripting
+SetSecurityHomogeneousFlag
+set_SocketFlags
+sharedPStateFlags
+ShutdownFlagsfac
+SmartMedia+CompactFlash Card Reader
+SmartMedia+CompactFlash+MemoryStick Card Reader
+SmartMedia+CompactFlash+MMC/SD Card Reader
+SourceFlags
+SrvLibLookasideDirectFreeBuffer
+STATUS_INVALID_EA_FLAG
+STORE_ASSEMBLY_FILE_STATUS_FLAG_PRESENT
+STORE_ASSEMBLY_FILE_STATUS_FLAGS
+STORE_ASSEMBLY_STATUS_FLAGS
+StorePermissionFlags
+StructFormat
+SXS:    Flags                : 0x%lx
+SXS:    Flags              : 0x%lx
+SXS:  Flags:               0x%lx
+SXS: %s() ACTCTX_FLAG_RESOURCE_NAME_VALID set but lpResourceName == 0
+SXS: %s() called with invalid flags 0x%08lx
+SXS: %s() - Caller passed invalid flags (0x%08lx)
+SXS: %s() - Caller passed meaningless flags/class combination (0x%08lx/0x%08lx)
+SXS: %s() flags contains return_assembly_metadata but they don't fit in size, return invalid_parameter 0x%08lx.
+SXS: %s() flags contains return_flags but they don't fit in size, return invalid_parameter 0x%08lx.
+System.EnterpriseServices.Internal.ClrObjectFactory
+System.FlagsAttribute
+System.Security.Permissions.ReflectionPermissionFlag, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.Security.Permissions.SecurityPermissionFlag, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.SFGAOFlags
+TABCONTROLSTATE_getTabRectfromItemSize
+TABCONTROLSTATE_selectFirstControl
+tagDefault Flag
+tagLayout Flag
+tagNetworkItemFactory Flag
+TEMP=C:\Users\Rick\AppData\Local\Temp
+TermDD: Exception code=%08x, flags=%08x, addr=%p
+textBoxFlags
+TextModeFlags
+TF_GetAppCompatFlags
+TF_GetInitSystemFlags
+TF_GetThreadFlags
+TF_IsCtfmonRunning
+TF_IsThreadWithFlags
+TF_SetThreadFlags
+; These are the PCI devices that currently require hackflags.
+TMP=C:\Users\Rick\AppData\Local\Temp
+TRACE_CLASS_ALGORITHM Flag
+TRACE_CLASS_BINDING Flag
+TRACE_CLASS_CALL Flag
+TRACE_CLASS_COMMAND Flag
+TRACE_CLASS_CONTEXT Flag
+TRACE_CLASS_DISPATCH Flag
+TRACE_CLASS_EMIT Flag
+TRACE_CLASS_ENGINE Flag
+TRACE_CLASS_HELLO Flag
+TRACE_CLASS_INIT Flag
+TRACE_CLASS_MAPPING Flag
+TRACE_CLASS_NLC Flag
+TRACE_CLASS_PACKET Flag
+TRACE_CLASS_PROTOCOL Flag
+TRACE_CLASS_QOS Flag
+TRACE_CLASS_QUIESCENT Flag
+TRACE_CLASS_REQUEST Flag
+TRACE_CLASS_SESSION Flag
+TRACE_CLASS_THREAD Flag
+TRACE_CLASS_TIMER Flag
+TRACE_CLASS_TRANSACTION Flag
+TraceFlags
+TriggerCodeContractFailure
+TU2System.Security.Permissions.SecurityPermissionFlag
+TypeDefFlags
+TypeDescriptorPermissionFlags
+TYPEFLAG_FAPPOBJECT
+TYPEFLAG_FPROXY
+_typeIAmAContractFor
+TypeLibExporterFlags
+TypeLibFuncFlags
+TypeLibTypeFlags
+UCompatibility Flags
+    uint32 Flags;
+UlErrorJobObjectFired
+UMRxDebugFlag
+usbflags
+user_flag 
+User Flags
+USERNAME=Rick
+USEROBJECTFLAGS
+USERPROFILE=C:\Users\Rick
+userSetProcFlagsForApp
+utFlagspti
+ValidTextFormatFlags
+VARFLAG_FREADONLY
+VARFLAG_FREQUESTEDIT
+VARFLAG_FUIDEFAULT
+VARFLAGS
+vCompatibility Flags
+Verbose Flag
+VMCIContext: Failed to get privilege flags for destination (handle=0x%x:0x%x).
+WaitingForLogonEnableKernelFlags
+Warning Flag
+WdQueryDebugFlag
+WebBrowserObjectForScriptingComVisibleOnly
+WerGetFlags
+WerSetFlags
+{wFFlags
+wFuncFlags
+wIDLFlags
+wLibFlags
+wParamFlags
+wTypeFlags
+X509VerificationFlags
+x86_wpf-servicing_key_productfamily_31bf3856ad364e35_none_9a01d73cf40d9faf
+x86_wwf-servicing_key_productfamily_31bf3856ad364e35_none_6c0815dc1d6e080e
+                    <xs:attribute name="TargetCompactFramework" type="msb:boolean" />
+Y[VidPNSource0Flagsi

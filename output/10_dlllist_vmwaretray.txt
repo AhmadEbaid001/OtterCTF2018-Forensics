@@ -1,0 +1,52 @@
+************************************************************************
+vmware-tray.ex pid:   3720
+Command line : "C:\Users\Rick\AppData\Local\Temp\RarSFX0\vmware-tray.exe" 
+
+
+Base                             Size          LoadCount LoadTime                       Path
+------------------ ------------------ ------------------ ------------------------------ ----
+0x0000000000ec0000            0x6e000             0xffff 1970-01-01 00:00:00 UTC+0000   C:\Users\Rick\AppData\Local\Temp\RarSFX0\vmware-tray.exe
+0x00000000776f0000           0x1a9000             0xffff 1970-01-01 00:00:00 UTC+0000   C:\Windows\SYSTEM32\ntdll.dll
+0x0000000075210000            0x3f000                0x3 2018-08-04 19:33:03 UTC+0000   C:\Windows\SYSTEM32\wow64.dll
+0x00000000751b0000            0x5c000                0x1 2018-08-04 19:33:03 UTC+0000   C:\Windows\SYSTEM32\wow64win.dll
+0x00000000751a0000             0x8000                0x1 2018-08-04 19:33:03 UTC+0000   C:\Windows\SYSTEM32\wow64cpu.dll
+0x0000000000ec0000            0x6e000             0xffff 1970-01-01 00:00:00 UTC+0000   C:\Users\Rick\AppData\Local\Temp\RarSFX0\vmware-tray.exe
+0x00000000778d0000           0x180000             0xffff 1970-01-01 00:00:00 UTC+0000   C:\Windows\SysWOW64\ntdll.dll
+0x0000000074f60000            0x4a000             0xffff 2018-08-04 19:33:03 UTC+0000   C:\Windows\SYSTEM32\MSCOREE.DLL
+0x00000000772f0000           0x110000             0xffff 2018-08-04 19:33:03 UTC+0000   C:\Windows\syswow64\KERNEL32.dll
+0x0000000075d30000            0x46000             0xffff 2018-08-04 19:33:03 UTC+0000   C:\Windows\syswow64\KERNELBASE.dll
+0x00000000755e0000            0xa0000               0x28 2018-08-04 19:33:03 UTC+0000   C:\Windows\syswow64\ADVAPI32.dll
+0x0000000076160000            0xac000               0xb1 2018-08-04 19:33:03 UTC+0000   C:\Windows\syswow64\msvcrt.dll
+0x0000000075de0000            0x19000               0xb8 2018-08-04 19:33:03 UTC+0000   C:\Windows\SysWOW64\sechost.dll
+0x00000000754b0000            0xf0000               0x7b 2018-08-04 19:33:03 UTC+0000   C:\Windows\syswow64\RPCRT4.dll
+0x0000000075430000            0x60000               0x28 2018-08-04 19:33:03 UTC+0000   C:\Windows\syswow64\SspiCli.dll
+0x0000000075420000             0xc000               0x29 2018-08-04 19:33:03 UTC+0000   C:\Windows\syswow64\CRYPTBASE.dll
+0x0000000074a00000            0x66000                0x1 2018-08-04 19:33:03 UTC+0000   C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscoreei.dll
+0x0000000077200000            0x57000                0x9 2018-08-04 19:33:03 UTC+0000   C:\Windows\syswow64\SHLWAPI.dll
+0x0000000076e70000            0x90000               0x7b 2018-08-04 19:33:03 UTC+0000   C:\Windows\syswow64\GDI32.dll
+0x0000000076f00000           0x100000               0x7c 2018-08-04 19:33:03 UTC+0000   C:\Windows\syswow64\USER32.dll
+0x00000000757d0000             0xa000               0x1c 2018-08-04 19:33:03 UTC+0000   C:\Windows\syswow64\LPK.dll
+0x0000000075ad0000            0x9d000               0x1c 2018-08-04 19:33:03 UTC+0000   C:\Windows\syswow64\USP10.dll
+0x0000000075d80000            0x60000                0x6 2018-08-04 19:33:03 UTC+0000   C:\Windows\system32\IMM32.DLL
+0x0000000077400000            0xcc000                0x3 2018-08-04 19:33:03 UTC+0000   C:\Windows\syswow64\MSCTF.dll
+0x0000000068070000           0x66f000                0x2 2018-08-04 19:33:03 UTC+0000   C:\Windows\Microsoft.NET\Framework\v4.0.30319\clr.dll
+0x0000000069720000            0xbe000                0x4 2018-08-04 19:33:03 UTC+0000   C:\Windows\system32\MSVCR100_CLR0400.dll
+0x00000000670a0000           0xdc3000                0x1 2018-08-04 19:33:06 UTC+0000   C:\Windows\assembly\NativeImages_v4.0.30319_32\mscorlib\246f1a5abb686b9dcdf22d3505b08cea\mscorlib.ni.dll
+0x0000000076000000           0x15c000                0x7 2018-08-04 19:33:06 UTC+0000   C:\Windows\syswow64\ole32.dll
+0x0000000074120000            0x80000                0x4 2018-08-04 19:33:06 UTC+0000   C:\Windows\system32\uxtheme.dll
+0x0000000068860000            0x10000                0x1 2018-08-04 19:33:07 UTC+0000   C:\Windows\Microsoft.NET\Framework\v4.0.30319\nlssorting.dll
+0x0000000068010000            0x60000                0x1 2018-08-04 19:33:08 UTC+0000   C:\Windows\Microsoft.NET\Framework\v4.0.30319\clrjit.dll
+0x0000000066800000           0x898000                0x1 2018-08-04 19:33:08 UTC+0000   C:\Windows\assembly\NativeImages_v4.0.30319_32\System\964da027ebca3b263a05cadb8eaa20a3\System.ni.dll
+0x0000000066660000           0x196000                0x1 2018-08-04 19:33:08 UTC+0000   C:\Windows\assembly\NativeImages_v4.0.30319_32\System.Drawing\dd57bc19f5807c6dbe8f88d4a23277f6\System.Drawing.ni.dll
+0x00000000659f0000           0xc6b000                0x1 2018-08-04 19:33:09 UTC+0000   C:\Windows\assembly\NativeImages_v4.0.30319_32\System.Windows.Forms\17e020ae92d7fab33bcc1c98b25019d0\System.Windows.Forms.ni.dll
+0x0000000073fe0000            0x84000                0x1 2018-08-04 19:33:09 UTC+0000   C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_5.82.7601.17514_none_ec83dffa859149af\comctl32.dll
+0x0000000075000000           0x19e000                0x5 2018-08-04 19:33:09 UTC+0000   C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_41e6975e2bd6f2b2\comctl32.dll
+0x0000000074870000           0x190000                0x2 2018-08-04 19:33:10 UTC+0000   C:\Windows\WinSxS\x86_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.7601.17514_none_72d18a4386696c80\gdiplus.dll
+0x0000000071990000            0xfb000                0x1 2018-08-04 19:33:10 UTC+0000   C:\Windows\system32\WindowsCodecs.dll
+0x0000000073c70000            0x13000                0x1 2018-08-04 19:33:10 UTC+0000   C:\Windows\system32\dwmapi.dll
+0x0000000065330000           0x6b6000                0x1 2018-08-04 19:33:10 UTC+0000   C:\Windows\assembly\NativeImages_v4.0.30319_32\System.Core\713647b987b140a17e3c4ffe4c721f85\System.Core.ni.dll
+0x0000000076220000           0xc4a000                0x1 2018-08-04 19:33:10 UTC+0000   C:\Windows\syswow64\shell32.dll
+0x00000000741a0000             0xb000                0x1 2018-08-04 19:33:10 UTC+0000   C:\Windows\system32\profapi.dll
+0x0000000073f60000            0x17000                0x1 2018-08-04 19:33:10 UTC+0000   C:\Windows\system32\bcrypt.dll
+0x0000000074100000            0x16000                0x1 2018-08-04 19:33:11 UTC+0000   C:\Windows\system32\CRYPTSP.dll
+0x00000000740c0000            0x3b000                0x1 2018-08-04 19:33:11 UTC+0000   C:\Windows\system32\rsaenh.dll

@@ -1,0 +1,24 @@
+Volatility 3 Framework 2.27.0
+
+Variable	Value
+
+Kernel Base	0xf80002a09000
+DTB	0x187000
+Symbols	file:///home/mitm/vol3-env/lib/python3.13/site-packages/volatility3/symbols/windows/ntkrnlmp.pdb/3844DBB920174967BE7AA4A2C20430FA-2.json.xz
+Is64Bit	True
+IsPAE	False
+layer_name	0 WindowsIntel32e
+memory_layer	1 FileLayer
+KdVersionBlock	0xf80002bfa068
+Major/Minor	33036.65506
+MachineType	19597
+KeNumberProcessors	0
+SystemTime	2018-08-04 19:34:22+00:00
+NtSystemRoot	C:\Windows
+NtProductType	NtProductWinNt
+NtMajorVersion	6
+NtMinorVersion	1
+PE MajorOperatingSystemVersion	6
+PE MinorOperatingSystemVersion	1
+PE Machine	34404
+PE TimeDateStamp	Sat Nov 20 13:00:25 2010

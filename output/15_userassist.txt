@@ -1,0 +1,40 @@
+Registry: \??\C:\Users\Rick\ntuser.dat 
+Path: Software\Microsoft\Windows\CurrentVersion\Explorer\UserAssist\{CEBFF5CD-ACE2-4F4F-9178-9926F41749EA}\Count
+Last updated: 2018-08-04 19:34:10 UTC+0000
+
+--
+REG_BINARY    C:\Users\Rick\AppData\Local\Temp\vmware-Rick\00007a1a\setup64.exe : 
+Count:          0
+Focus Count:    1
+Time Focused:   0:00:18.378000
+--
+REG_BINARY    C:\Users\Rick\Downloads\BitTorrent.exe : 
+Count:          0
+Focus Count:    0
+Time Focused:   0:00:01.795000
+--
+REG_BINARY    C:\Users\Rick\AppData\Local\Temp\7zS0F1CB956\GenericSetup.exe : 
+Count:          0
+Focus Count:    2
+Time Focused:   0:00:10.360000
+--
+REG_BINARY    C:\Users\Rick\AppData\Roaming\BitTorrent\BitTorrent.exe : 
+Count:          3
+Focus Count:    38
+Time Focused:   0:05:51.177000
+--
+REG_BINARY    C:\Users\Rick\AppData\Local\Temp\NGMSetup.exe : 
+Count:          0
+Focus Count:    1
+Time Focused:   0:00:07.644000
+--
+REG_BINARY    C:\Torrents\Rick And Morty season 1 download.exe : 
+Count:          7
+Focus Count:    0
+Time Focused:   0:00:01
+--
+REG_BINARY    C:\Users\Rick\AppData\Local\Temp\RarSFX0\vmware-tray.exe : 
+Count:          0
+Focus Count:    14
+Time Focused:   0:02:02.039000
+--
