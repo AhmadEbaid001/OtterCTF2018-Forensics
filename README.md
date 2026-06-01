@@ -86,7 +86,6 @@ See [docs/mitre_mapping.md](docs/mitre_mapping.md) for full table.
 ## Repository Structure
 
 - report — 67-page LaTeX technical report PDF
-- presentation — Professional HTML presentation
 - screenshots — 40 evidence screenshots across all phases
 - phase4 — Attack timeline and MITRE ATT&CK Navigator
 - output — All Volatility command outputs and extracted artifacts
